@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>ISyE 6202 Supply Chain Facilities</strong> &nbsp;·&nbsp; <strong>ISyE 6335 Supply Chain Engineering 1</strong><br>
-  Interactive simulators and tools · Georgia Institute of Technology
+  Interactive simulators and tools · Georgia Institute of Technology · Fall 2026
 </p>
 
 <p align="center">
@@ -30,8 +30,7 @@ Every simulator runs in your browser — **nothing to install, just open the lin
 ---
 
 <p align="center">
-  📫 <strong>Questions?</strong> Contact
-  <a href="mailto:benoit.montreuil@isye.gatech.edu">Prof. Benoit Montreuil</a>
-  and
-  <a href="mailto:yquan9@gatech.edu">Yinzhu Quan</a>.
+  📫 <strong>Questions?</strong> Contact<br>
+  Prof. Benoit Montreuil — <a href="mailto:benoit.montreuil@isye.gatech.edu">benoit.montreuil@isye.gatech.edu</a><br>
+  Yinzhu Quan — <a href="mailto:yquan9@gatech.edu">yquan9@gatech.edu</a>
 </p>
