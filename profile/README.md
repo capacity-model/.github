@@ -21,15 +21,17 @@ A Monte-Carlo simulator for capacity modeling under stochastic demand, reliabili
 
 Explore multi-server queueing behavior — arrival and service rates, number of servers, utilization, waiting times, and queue length.
 
-- **Web (HTML):** [capacity-model.github.io/queueing-lab](https://capacity-model.github.io/queueing-lab/)
-- **Source code:** [queueing-lab](https://github.com/capacity-model/queueing-lab)
+| Open the app | Source code |
+|---|---|
+| **Web (HTML):** [capacity-model.github.io/queueing-lab](https://capacity-model.github.io/queueing-lab/) | [queueing-lab](https://github.com/capacity-model/queueing-lab) |
 
 ## 🏭 Yard & Dock Doors Simulator
 
 Simulate a yard with dock doors for truck loading and unloading — arrivals, dock capacity, service times, and congestion.
 
-- **Web (HTML):** [capacity-model.github.io/yard-dock](https://capacity-model.github.io/yard-dock/)
-- **Source code:** [yard-dock](https://github.com/capacity-model/yard-dock)
+| Open the app | Source code |
+|---|---|
+| **Web (HTML):** [capacity-model.github.io/yard-dock](https://capacity-model.github.io/yard-dock/) | [yard-dock](https://github.com/capacity-model/yard-dock) |
 
 ---
 
