@@ -4,18 +4,32 @@ Interactive simulators and tools for **ISyE 6202 Supply Chain Facilities** and *
 
 **Instructor:** Prof. Benoit Montreuil · Georgia Tech ISyE
 
+Every simulator below runs in the browser — nothing to install, just open the link. Start by exploring the **parameters** and the **model formulas** shown on each page, then change one input at a time to build intuition.
+
 ---
 
 ## 🚚 Capacity Modeling Simulator
 
-A Monte-Carlo simulator for capacity modeling under stochastic demand, reliability, quality, and efficiency. Adjust the parameters, roll new simulated instances, and see how net capacity, production, sales, service level, and utilization respond.
+A Monte-Carlo simulator for capacity modeling under stochastic demand, reliability, quality, and efficiency. See how net capacity, production, sales, service level, and utilization respond as you roll new simulated instances.
 
-| | Open the app | Source code |
-|---|---|---|
-| **Web (HTML)** — nothing to install, just open the link | [capacity-model.github.io](https://capacity-model.github.io/) | [capacity-model.github.io](https://github.com/capacity-model/capacity-model.github.io) |
-| **Python (Streamlit)** — for reading or modifying the model in Python | [capacity-model.streamlit.app](https://capacity-model.streamlit.app/) | [capacity-simulator-python](https://github.com/capacity-model/capacity-simulator-python) |
+| Open the app | Source code |
+|---|---|
+| **Web (HTML):** [capacity-model.github.io](https://capacity-model.github.io/) | [capacity-model.github.io](https://github.com/capacity-model/capacity-model.github.io) |
+| **Python (Streamlit):** [capacity-model.streamlit.app](https://capacity-model.streamlit.app/) | [capacity-simulator-python](https://github.com/capacity-model/capacity-simulator-python) |
 
-Both versions share the same model and default parameters. Start by exploring the **parameters** and the **model formulas** shown on the page, then change one input at a time to build intuition.
+## ⏳ Multi-Server Queueing Lab
+
+Explore multi-server queueing behavior — arrival and service rates, number of servers, utilization, waiting times, and queue length.
+
+- **App:** [capacity-model.github.io/queueing-lab](https://capacity-model.github.io/queueing-lab/)
+- **Source code:** [queueing-lab](https://github.com/capacity-model/capacity-model.github.io/tree/main/queueing-lab)
+
+## 🏭 Yard & Dock Doors Simulator
+
+Simulate a yard with dock doors for truck loading and unloading — arrivals, dock capacity, service times, and congestion.
+
+- **App:** [capacity-model.github.io/yard-dock](https://capacity-model.github.io/yard-dock/)
+- **Source code:** [yard-dock](https://github.com/capacity-model/capacity-model.github.io/tree/main/yard-dock)
 
 ---
 
