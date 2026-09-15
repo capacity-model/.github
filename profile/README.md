@@ -21,4 +21,4 @@ Both versions share the same model and default parameters. Start by exploring th
 
 ## 📫 Contact
 
-For any questions about these interactive tools, please contact **Yinzhu Quan** ([yquan9@gatech.edu](mailto:yquan9@gatech.edu)).
+For any questions about these interactive tools, please contact **Prof. Benoit Montreuil** ([benoit.montreuil@isye.gatech.edu](mailto:benoit.montreuil@isye.gatech.edu)) and **Yinzhu Quan** ([yquan9@gatech.edu](mailto:yquan9@gatech.edu)).
