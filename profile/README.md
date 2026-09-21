@@ -13,6 +13,7 @@
   <a href="https://capacity-model.github.io/"><img src="https://img.shields.io/badge/Capacity_Modeling-Launch-003057?style=for-the-badge" alt="Launch Capacity Modeling"></a>
   <a href="https://capacity-model.github.io/queueing-lab/"><img src="https://img.shields.io/badge/Queueing_Lab-Launch-b3a369?style=for-the-badge" alt="Launch Multi-Server Queueing Lab"></a>
   <a href="https://capacity-model.github.io/yard-dock/"><img src="https://img.shields.io/badge/Yard_%26_Dock-Launch-003057?style=for-the-badge" alt="Launch Yard & Dock Doors"></a>
+  <a href="https://capacity-model.github.io/queueing-network/"><img src="https://img.shields.io/badge/Queueing_Network-Launch-b3a369?style=for-the-badge" alt="Launch Queueing Network Simulator-Optimizer"></a>
 </p>
 
 ---
@@ -26,6 +27,7 @@ Every simulator runs in your browser — **nothing to install, just open the lin
 | 🚚 **Capacity Modeling** — Monte-Carlo capacity under stochastic demand, reliability, quality, and efficiency | [Open](https://capacity-model.github.io/) | [Open](https://capacity-model.streamlit.app/) | [HTML](https://github.com/capacity-model/capacity-model.github.io) · [Python](https://github.com/capacity-model/capacity-simulator-python) |
 | ⏳ **Multi-Server Queueing Lab** — servers, utilization, waiting times, and queue length | [Open](https://capacity-model.github.io/queueing-lab/) | — | [Repo](https://github.com/capacity-model/queueing-lab) |
 | 🏭 **Yard & Dock Doors** — truck loading and unloading, dock capacity, and congestion | [Open](https://capacity-model.github.io/yard-dock/) | — | [Repo](https://github.com/capacity-model/yard-dock) |
+| 🔀 **Queueing Network Simulator-Optimizer** — interconnected service stations, utilization, waiting times, and optimization | [Open](https://capacity-model.github.io/queueing-network/) | — | [Repo](https://github.com/capacity-model/queueing-network) |
 
 ---
 
