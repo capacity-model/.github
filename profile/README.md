@@ -14,6 +14,7 @@
   <a href="https://capacity-model.github.io/queueing-lab/"><img src="https://img.shields.io/badge/Queueing_Lab-Launch-b3a369?style=for-the-badge" alt="Launch Multi-Server Queueing Lab"></a>
   <a href="https://capacity-model.github.io/yard-dock/"><img src="https://img.shields.io/badge/Yard_%26_Dock-Launch-003057?style=for-the-badge" alt="Launch Yard & Dock Doors"></a>
   <a href="https://capacity-model.github.io/queueing-network/"><img src="https://img.shields.io/badge/Queueing_Network-Launch-b3a369?style=for-the-badge" alt="Launch Queueing Network Simulator-Optimizer"></a>
+  <a href="https://capacity-model.github.io/facility-layout/"><img src="https://img.shields.io/badge/Facility_Layout-Launch-003057?style=for-the-badge" alt="Launch Facility Layout"></a>
 </p>
 
 ---
@@ -28,6 +29,7 @@ Every simulator runs in your browser — **nothing to install, just open the lin
 | ⏳ **Multi-Server Queueing Lab** — servers, utilization, waiting times, and queue length | [Open](https://capacity-model.github.io/queueing-lab/) | — | [Repo](https://github.com/capacity-model/queueing-lab) |
 | 🏭 **Yard & Dock Doors** — truck loading and unloading, dock capacity, and congestion | [Open](https://capacity-model.github.io/yard-dock/) | — | [Repo](https://github.com/capacity-model/yard-dock) |
 | 🔀 **Queueing Network Simulator-Optimizer** — interconnected service stations, utilization, waiting times, and optimization | [Open](https://capacity-model.github.io/queueing-network/) | — | [Repo](https://github.com/capacity-model/queueing-network) |
+| 📐 **Facility Layout** — qualitative proximity relationships between centers, layout geometry, and satisfaction curves | [Open](https://capacity-model.github.io/facility-layout/) | — | [Repo](https://github.com/capacity-model/facility-layout) |
 
 ---
 
