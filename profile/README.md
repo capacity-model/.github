@@ -29,7 +29,7 @@ Every simulator runs in your browser — **nothing to install, just open the lin
 | ⏳ **Multi-Server Queueing Lab** — servers, utilization, waiting times, and queue length | [Open](https://capacity-model.github.io/queueing-lab/) | — | [Repo](https://github.com/capacity-model/queueing-lab) |
 | 🏭 **Yard & Dock Doors** — truck loading and unloading, dock capacity, and congestion | [Open](https://capacity-model.github.io/yard-dock/) | — | [Repo](https://github.com/capacity-model/yard-dock) |
 | 🔀 **Queueing Network Simulator-Optimizer** — interconnected service stations, utilization, waiting times, and optimization | [Open](https://capacity-model.github.io/queueing-network/) | — | [Repo](https://github.com/capacity-model/queueing-network) |
-| 📐 **Interactive Layout Design and Evaluation** — qualitative proximity relationships, layout geometry, satisfaction curves, and loaded flow, distance and travel matrices | [Open](https://capacity-model.github.io/facility-layout/) | — | [Repo](https://github.com/capacity-model/facility-layout) |
+| 📐 **Interactive Layout Design and Evaluation** — qualitative proximity relationships, layout geometry, satisfaction curves, and flow, distance and travel matrices | [Open](https://capacity-model.github.io/facility-layout/) | — | [Repo](https://github.com/capacity-model/facility-layout) |
 
 ---
 
